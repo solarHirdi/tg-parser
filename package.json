@@ -1,0 +1,16 @@
+{
+  "name": "tg-parser",
+  "version": "1.0.0",
+  "description": "Telegram Parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.ts"
+  },
+  "author": "Arkadiy A.Davydov",
+  "license": "ISC",
+  "dependencies": {
+    "input": "^1.0.1",
+    "telegram": "^2.16.4",
+    "ts-node": "^10.9.1"
+  }
+}
